@@ -84,6 +84,7 @@ class Person
       if topic == "politics"
         person.happiness -= 2
         self.happiness -= 2
+        "blah blah partisan blah lobbyist"
       end
     end
     
